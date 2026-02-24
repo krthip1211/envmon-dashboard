@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+
+# env secrets
+.env
+.env.*
+
+# build
+dist/
+frontend/dist/
+
+# vercel
+.vercel
